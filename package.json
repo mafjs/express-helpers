@@ -1,6 +1,6 @@
 {
   "name": "maf-express-helpers",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "express request and response helpers",
   "main": "index.js",
   "scripts": {
