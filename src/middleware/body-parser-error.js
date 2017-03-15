@@ -7,7 +7,7 @@ module.exports = function (logger) {
             if (error instanceof SyntaxError) {
                 res.status(400).json({
                     error: {
-                        message: 'Invalid Json Body',
+                        message: 'invalid json body. body should contain json object or array, not string or number',
                         code: 'INVALID_JSON'
                     }
                 });
