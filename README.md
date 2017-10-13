@@ -1,8 +1,8 @@
-# maf-express-helpers
-
 # deprecated
 
 @see https://github.com/mafjs/rest and https://github.com/mafjs/rest-service
+
+# maf-express-helpers
 
 express.js middlewares, request and response helpers
 
