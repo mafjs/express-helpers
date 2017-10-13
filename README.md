@@ -1,5 +1,9 @@
 # maf-express-helpers
 
+# deprecated
+
+@see https://github.com/mafjs/rest and https://github.com/mafjs/rest-service
+
 express.js middlewares, request and response helpers
 
 ![stability-unstable](https://img.shields.io/badge/stability-unstable-yellow.svg)
